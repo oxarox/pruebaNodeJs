@@ -1,5 +1,5 @@
 import express from "express";
-import config from './config';
+import config from '../src/config';
 
 import productsRoutes from './routes/products.routes';
 
