@@ -1,2 +1,2 @@
-export * from '../database/connection'
-export { queries } from '../database/querys'
+export * from '../database/connection.js'
+export { queries } from '../database/querys.js'
