@@ -1,7 +1,7 @@
 import express from "express";
 import config from '../src/config.js';
 
-import productsRoutes from './routes/products.routes';
+import productsRoutes from './routes/products.routes.js';
 
 const app = express();
 
